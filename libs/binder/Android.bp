@@ -164,6 +164,7 @@ cc_library {
 }
 
 // AIDL interface between libbinder and framework.jar
+}
 filegroup {
     name: "libbinder_aidl",
     srcs: [
